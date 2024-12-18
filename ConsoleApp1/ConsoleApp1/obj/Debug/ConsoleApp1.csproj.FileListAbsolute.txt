@@ -1,0 +1,21 @@
+D:\Lab_2kyrs_2024\lab6\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Lab_2kyrs_2024\lab6\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Lab_2kyrs_2024\lab6\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Lab_2kyrs_2024\lab6\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Lab_2kyrs_2024\lab6\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Lab_2kyrs_2024\lab6\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Lab_2kyrs_2024\lab6\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\striy\Desktop\Линда\program\lab6\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\striy\Desktop\Линда\program\lab6\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\striy\Desktop\Линда\program\lab6\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\striy\Desktop\Линда\program\lab6\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\striy\Desktop\Линда\program\lab6\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\striy\Desktop\Линда\program\lab6\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\striy\Desktop\Линда\program\lab6\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\striy\Desktop\6 варік парні\lab6\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\striy\Desktop\6 варік парні\lab6\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\striy\Desktop\6 варік парні\lab6\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\striy\Desktop\6 варік парні\lab6\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\striy\Desktop\6 варік парні\lab6\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\striy\Desktop\6 варік парні\lab6\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\striy\Desktop\6 варік парні\lab6\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
